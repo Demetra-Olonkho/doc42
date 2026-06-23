@@ -2,7 +2,7 @@
 
 | Русский                                                                                       | English                                                                                                 |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| Основной репозиторий документации проекта Demetra Olonkho. <br><br> Репозиторий содержит нормативную, архитектурную, организационную и справочную документацию проекта. | Main documentation repository of the Demetra Olonkho project. <br><br> The repository contains normative, architectural, organizational and reference documentation of the project. |
+| Основной репозиторий документации проекта Деметра Олонхо. <br><br> Репозиторий содержит нормативную, архитектурную, организационную и справочную документацию проекта. | Main documentation repository of the Demetra Olonkho project. <br><br> The repository contains normative, architectural, organizational and reference documentation of the project. |
 
 ---
 
